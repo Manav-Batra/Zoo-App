@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916682496803",
+    "project_id": "zooo-3f4b3",
+    "storage_bucket": "zooo-3f4b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916682496803:android:5437979ca397007f1a4a96",
+        "android_client_info": {
+          "package_name": "com.ManavBatra.zoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916682496803-3i4c88u86i62jfs4b7aice2rbe834i06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSqklMVX3Z9uXXj9eo74E8XSF3qDUI9Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916682496803-3i4c88u86i62jfs4b7aice2rbe834i06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
